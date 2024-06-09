@@ -3,4 +3,5 @@
 
   <br />
   <a href="https://lumista.org/">lumista.org</a>
+  <a href="https://lumista.org/download/">Download</a>
 </div>
